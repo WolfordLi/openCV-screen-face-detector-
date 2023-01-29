@@ -14,4 +14,4 @@ Turn On: click "face detector.py"
 Turn Off:  put your mouse on window, then click it and press button"esc"
 	Or just shut down the DOS winsow.
 
-PS: I'm a Chinese, so there it may has some mistakes,if it does,just skip the mistakes please.
+PS: I'm a Chinese, so it may has some mistakes,if it has,just skip the mistakes please.
